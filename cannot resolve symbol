@@ -1,0 +1,3 @@
+  
+        android:id="@id/addIcon"
+        app:id="showAsAction"="always"
